@@ -1,0 +1,53 @@
+[
+    {
+      "data_id": "1a2b3c4d",
+      "cover": "https://images.unsplash.com/photo-1538438225364-1edac4d7f3d7",
+      "title": "The Future of Web Development",
+      "author": "Jane Doe",
+      "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+      "posted_date": "2024-09-15",
+      "reading_time": "6 min read",
+      "hashtags": ["#WebDevelopment", "#JavaScript", "#MERNStack"]
+    },
+    {
+      "data_id": "2b3c4d5e",
+      "cover": "https://images.unsplash.com/photo-1555431189-0fabf1c2b2a9",
+      "title": "AI in Education: Transforming the Classroom",
+      "author": "John Smith",
+      "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "posted_date": "2024-10-05",
+      "reading_time": "8 min read",
+      "hashtags": ["#AI", "#Education", "#EdTech"]
+    },
+    {
+      "data_id": "3c4d5e6f",
+      "cover": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
+      "title": "Understanding Cybersecurity in 2024",
+      "author": "Alice Johnson",
+      "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "posted_date": "2024-08-21",
+      "reading_time": "5 min read",
+      "hashtags": ["#Cybersecurity", "#TechTrends", "#Hacking"]
+    },
+    {
+      "data_id": "4d5e6f7g",
+      "cover": "https://images.unsplash.com/photo-1509395176047-4a66953fd231",
+      "title": "Building Scalable Apps with MERN Stack",
+      "author": "Robert Brown",
+      "author_img": "https://images.unsplash.com/photo-1520974735194-6f36b21758ef",
+      "posted_date": "2024-09-30",
+      "reading_time": "7 min read",
+      "hashtags": ["#MERNStack", "#ScalableApps", "#WebDevelopment"]
+    },
+    {
+      "data_id": "5e6f7g8h",
+      "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "The Rise of Quantum Computing",
+      "author": "Emily Davis",
+      "author_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "posted_date": "2024-10-10",
+      "reading_time": "9 min read",
+      "hashtags": ["#QuantumComputing", "#TechFuture", "#Innovation"]
+    }
+  ]
+  
